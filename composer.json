@@ -1,0 +1,19 @@
+{
+    "name": "raziul/product-gallery",
+    "description": "gallery for woocommerce single product",
+    "type": "wordpress-plugin",
+    "license": "GPLv2",
+    "autoload": {
+        "psr-4": {
+            "Raziul\\ProductGallery\\": "includes/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Syed Raziul Islam",
+            "email": "syedraziul@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

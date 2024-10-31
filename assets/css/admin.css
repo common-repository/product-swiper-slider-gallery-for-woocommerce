@@ -1,0 +1,118 @@
+.woopsg-porduct-opt .csf-nav-inline ul li a {
+    float: left;
+    padding: 15px 40px;
+    border-top: 3px solid #562dd4;
+    border-radius: 5px 5px 0 0;
+    background-color: #f8f8f8;
+    color: #313131;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 14px;
+    display: block;
+}
+
+.woopsg-porduct-opt .csf-nav-inline ul li:not(:last-child) {
+    margin-right: 15px;
+}
+
+.woopsg-porduct-opt .csf-nav-inline ul li a.csf-active {
+    background: #562dd4;
+    color: #fff;
+}
+
+.woopsg-porduct-opt .csf-nav {
+    float: none;
+}
+.woopsg-porduct-opt .csf-buttons .csf-save {
+    background: #562dd4;
+    border: none;
+    min-height: 40px;
+    min-width: 100px;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+.woopsg-porduct-opt .csf-form-result{
+    border: none;
+    min-height: 40px;
+    min-width: 100px;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 40px;
+    padding: 0 15px;
+}
+.woopsg-porduct-opt .csf-buttons .csf-reset-section {
+    background: #ff0000;
+    border: none;
+    min-height: 40px;
+    text-transform: uppercase;
+    font-weight: 600;
+    color: #fff;
+    padding: 0 20px;
+}
+
+.woopsg-porduct-opt .csf-buttons .button {
+    margin: 0 5px;
+}
+.woopsg-porduct-opt .csf-content {
+    padding: 40px;
+    border-radius: 0 0 5px 5px;
+    background-color: #fff;
+    -webkit-box-shadow: 0 1px 1px 0 rgba(0,0,0,.1);
+    box-shadow: 0 1px 1px 0 rgba(0,0,0,.1);
+}
+
+.woopsg-porduct-opt .csf-field-switcher .csf--switcher{
+    width: 70px;
+    height: 32px;
+    background: #ff0000;
+    border-radius: 30px;
+}
+
+.woopsg-porduct-opt .csf-field-switcher .csf--active {
+    background: #562dd4;
+}
+.woopsg-porduct-opt .csf-field-switcher .csf--ball {
+    top: 5px;
+    border-radius: 50px;
+    width: 22px;
+    height: 22px;
+}
+
+.woopsg-porduct-opt .csf-field-switcher .csf--off, .woopsg-porduct-opt .csf-field-switcher .csf--on {
+    top: 3px;
+}
+.woopsg-porduct-opt .csf-field {
+    padding-left: 0;
+    padding-right: 0;
+}
+.woopsg-porduct-opt .csf-field .wp-picker-container .wp-color-result.button {
+    border-color: #562dd4;
+}
+
+.woopsg-porduct-opt .csf-field-slider .ui-slider-range, .woopsg-porduct-opt .csf-field-slider .ui-slider-handle {
+    background: #562dd4;
+}
+.woopsg-porduct-opt .csf-field-slider .ui-slider-range, .woopsg-porduct-opt .csf-field-slider .ui-slider{
+    height: 5px;
+}
+
+.woopsg-porduct-opt .csf-field-slider .ui-slider-handle {
+    top: -6px;
+}
+.thx-pro-item a {
+    background: #ff0000;
+    font-size: 10px;
+    font-weight: 600;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #fff;
+    padding: 2px 5px;
+    border-radius: 3px;
+}
+
+.thx-pro-item .csf-fieldset {
+    pointer-events: none;
+    cursor: not-allowed;
+}
